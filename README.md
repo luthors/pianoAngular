@@ -1,3 +1,9 @@
+pianoAngular
+Un simple piano hecho con Angular para mostrar funcionalidades de sonido en el Frontend
+
+Despliegue: https://cute-meerkat-645a4c.netlify.app/
+
+
 # Piano
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.2.
